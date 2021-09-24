@@ -9,9 +9,9 @@ Then clone it to your local computer.
 
 Read the instructions and grading rubric in HW_4_Instructions_Rubric.pdf.  
 
-Modify the code in hw_4.py.  To add this file to the staging area for a commit use:
+Modify the code in hw4.py.  To add this file to the staging area for a commit use:
 
-- git add hw_4.py
+- git add hw4.py
 
 Be sure to do at least 3 commits to earn up to 15 points.  To commit use:
 
